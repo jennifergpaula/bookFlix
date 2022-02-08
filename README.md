@@ -6,3 +6,5 @@ Desafio prático realizado na plataforma Digital Innovation One: Recriando a Int
 
 https://bookflix-omega.vercel.app/
 
+<img align="right" alt="PNG" src="https://github.com/jennifergpaula/bookFlix/blob/main/img/capaV1.PNG" width="400" height="500" />
+ 
