@@ -99,14 +99,16 @@ header nav a:hover{
 }
 
 .box-filme {
+    max-width: 390px;
+    max-height: 500px;
     height: 100%;
-    width: 100%;
+    width: 90%;
     display: block;
     cursor: pointer;
 }
 
 .carrosel-filmes {
-    margin-top: 5px;
+    margin-top: 15px;
 }
 
 /* início da estilização do footer */
